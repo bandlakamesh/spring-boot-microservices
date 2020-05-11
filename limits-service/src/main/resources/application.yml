@@ -1,0 +1,6 @@
+#application is for properties specific to our application. 
+server:
+  port: 8080
+  servlet:
+    context-path: /limits-service
+    

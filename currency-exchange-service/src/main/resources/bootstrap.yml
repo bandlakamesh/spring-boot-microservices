@@ -1,0 +1,13 @@
+#bootstrap is for getting the config server ready
+spring:
+  application:
+    name: currency-exchange-service
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://localhost:8888
+       
+
+    
+    
