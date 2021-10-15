@@ -8,4 +8,4 @@ server:
 
 limits-service:
   maximum: 100
-  minimum: -100
+  minimum: -10000
